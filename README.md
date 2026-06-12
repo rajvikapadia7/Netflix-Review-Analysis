@@ -36,7 +36,7 @@ Netflix Review Analysis/
 ├── app.py                             # Gradio web app (Hugging Face deployment)
 ├── requirements.txt                   # Dependencies
 ├── data/
-│   └── netflix_reviews_bi.csv         # BI-ready export for Tableau / Power BI
+│   └── netflix_reviews_bi.csv         # BI-ready export for Tableau
 └── tableau/
     ├── netflix_dashboard.twbx         # Tableau workbook
     └── dashboard_screenshot.png       # Dashboard preview
@@ -82,7 +82,7 @@ Single-page dashboard covering:
 |----------|-------|
 | Language | Python |
 | NLP / ML | scikit-learn, TF-IDF |
-| Data | pandas, numpy, scipy |
+| Data | pandas, numpy |
 | Visualization | matplotlib, seaborn, WordCloud |
 | Web App | Gradio, Hugging Face Spaces |
 | AI Summarization | Groq API, Llama 3.3 70B |
@@ -124,7 +124,7 @@ export GROQ_API_KEY=your_key_here
 
 Source: Netflix Google Play Store reviews  
 Size: 142,000+ reviews after deduplication  
-Available on Kaggle (linked above) — not included in this repo due to file size.
+Available on Kaggle (linked above)
 
 ---
 
