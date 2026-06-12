@@ -8,8 +8,8 @@ Sentiment analysis and business intelligence system built on 142,000+ Netflix Go
 
 | Tool | Link |
 |------|------|
-| 🤗 Hugging Face App | [Netflix Review Analyser](https://huggingface.co/spaces/rajvikapadia/netflix-review-analyser) |
-| 📊 Tableau Dashboard | Preview below (workbook included in `/tableau`) |
+| Hugging Face App | [Netflix Review Analyser](https://huggingface.co/spaces/rajvikapadia/netflix-review-analyser) |
+| Tableau Dashboard | Preview below (workbook included in `/tableau`) |
 
 ### Dashboard Preview
 ![Netflix App Review Insights](Tableau/dashboard_screenshot.png)
@@ -81,12 +81,12 @@ Single-page dashboard covering:
 | Category | Tools |
 |----------|-------|
 | Language | Python |
-| NLP / ML | scikit-learn, TF-IDF, Logistic Regression |
+| NLP / ML | scikit-learn, TF-IDF |
 | Data | pandas, numpy, scipy |
 | Visualization | matplotlib, seaborn, WordCloud |
 | Web App | Gradio, Hugging Face Spaces |
 | AI Summarization | Groq API, Llama 3.3 70B |
-| BI | Tableau, Power BI (via BI CSV export) |
+| BI | Tableau (via BI CSV export) |
 
 ---
 
