@@ -12,7 +12,7 @@ Sentiment analysis and business intelligence system built on 142,000+ Netflix Go
 | 📊 Tableau Dashboard | Preview below (workbook included in `/tableau`) |
 
 ### Dashboard Preview
-![Netflix App Review Insights](tableau/dashboard_screenshot.png)
+![Netflix App Review Insights](Tableau/dashboard_screenshot.png)
 
 ---
 
