@@ -1,4 +1,4 @@
-# Netflix Review Intelligence System
+# Netflix Review Analysis System
 
 Sentiment analysis and business intelligence system built on 142,000+ Netflix Google Play Store reviews. Combines NLP-based classification with an interactive web app and a Tableau dashboard to surface actionable product insights.
 
